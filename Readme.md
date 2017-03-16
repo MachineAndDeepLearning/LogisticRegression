@@ -11,3 +11,6 @@ This project implements a variety of simple logistic regression models for the f
 It also implements some basic functions for logistic regressions
 * Cross entropy
 * L1 regularization
+
+## Credit
+Based on courses from lazyprogrammer.me on Udemy
